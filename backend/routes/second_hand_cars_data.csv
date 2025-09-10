@@ -1,0 +1,502 @@
+make,model,year,kms_driven,fuel_type,transmission,price
+Maruti Suzuki,Swift,2015,120000,Petrol,Manual,500000
+Hyundai,Grand i10 Nios,2014,84833,CNG,Manual,200146
+MG,Hector,2013,173798,CNG,Manual,64186
+Mahindra,Bolero,2010,187249,Diesel,Automatic,66401
+Maruti Suzuki,Baleno,2020,56692,CNG,Manual,590673
+Volkswagen,Polo,2023,159,Electric,Manual,780419
+Tata,Nexon,2011,166810,Petrol,Automatic,50934
+Honda,Jazz,2022,33909,CNG,Automatic,742806
+Maruti Suzuki,Ertiga,2015,77679,Petrol,Automatic,234984
+Maruti Suzuki,Ciaz,2016,109654,CNG,Automatic,255636
+Volkswagen,Vento,2021,18278,Diesel,Automatic,841480
+Maruti Suzuki,Ertiga,2011,164682,Petrol,Manual,58072
+Hyundai,i20,2016,108826,CNG,Automatic,197984
+Tata,Tiago,2023,19144,Diesel,Automatic,708816
+Maruti Suzuki,Alto,2014,138499,Petrol,Automatic,56176
+Skoda,Octavia,2009,160308,CNG,Manual,52496
+Maruti Suzuki,Ertiga,2018,102356,CNG,Automatic,431394
+Skoda,Octavia,2010,205928,Electric,Automatic,51852
+MG,Hector,2018,46139,Petrol,Manual,1054551
+Maruti Suzuki,Swift,2019,28955,CNG,Automatic,410397
+Honda,Amaze,2010,226251,Petrol,Automatic,56784
+Audi,A4,2016,112858,Electric,Automatic,1208132
+Tata,Safari,2011,162466,CNG,Automatic,63505
+Hyundai,Santro,2012,168079,Electric,Manual,63065
+Volkswagen,Vento,2019,72001,CNG,Manual,712843
+Honda,Jazz,2011,228164,Petrol,Automatic,65400
+Volkswagen,Vento,2009,263669,CNG,Automatic,64036
+Honda,Jazz,2014,76967,Electric,Manual,97967
+Volkswagen,Taigun,2009,147375,Petrol,Manual,55682
+Audi,A4,2021,38673,Electric,Automatic,3881189
+Maruti Suzuki,Ciaz,2023,10800,CNG,Automatic,943845
+Skoda,Kushaq,2013,171083,Petrol,Manual,67272
+Toyota,Innova Crysta,2023,22872,CNG,Manual,2533625
+Toyota,Innova Crysta,2020,66228,CNG,Manual,1460894
+Skoda,Kushaq,2017,73207,Electric,Automatic,674306
+Skoda,Octavia,2019,78369,Petrol,Manual,1669602
+Maruti Suzuki,Ciaz,2013,150687,Electric,Automatic,50004
+Honda,City,2021,30627,Diesel,Manual,1203284
+Mahindra,Thar,2011,204560,Petrol,Automatic,63689
+Volkswagen,Vento,2019,82628,Petrol,Manual,600692
+Skoda,Kushaq,2013,116487,CNG,Manual,63259
+Maruti Suzuki,Ciaz,2019,73724,Diesel,Automatic,621433
+Mahindra,XUV700,2019,69035,CNG,Automatic,1321144
+Volkswagen,Taigun,2016,107507,Diesel,Automatic,428380
+Kia,Sonet,2015,132697,Petrol,Automatic,162388
+Kia,Carens,2018,73701,CNG,Automatic,598947
+MG,Astor,2014,150745,CNG,Manual,60286
+Mahindra,Thar,2015,141652,Diesel,Manual,170055
+Toyota,Urban Cruiser,2011,132459,Diesel,Manual,60965
+Toyota,Fortuner,2013,99554,Diesel,Manual,68189
+Maruti Suzuki,Ertiga,2013,138782,CNG,Manual,55396
+BMW,3 Series,2011,222707,Petrol,Automatic,50722
+Mercedes-Benz,C-Class,2018,64630,Diesel,Manual,2497387
+Volkswagen,Polo,2018,63247,Diesel,Manual,430524
+MG,Hector,2017,51428,Diesel,Manual,703884
+Tata,Tiago,2013,144693,Petrol,Automatic,68015
+Maruti Suzuki,Baleno,2013,106457,Electric,Manual,54250
+Honda,Jazz,2020,34438,Diesel,Manual,558129
+Maruti Suzuki,Dzire,2010,127256,Diesel,Manual,56841
+MG,Astor,2014,78827,CNG,Automatic,153086
+Hyundai,Verna,2013,124832,Petrol,Automatic,61020
+Volkswagen,Polo,2012,126384,CNG,Automatic,67551
+Hyundai,Verna,2013,80361,Electric,Automatic,51171
+Hyundai,Venue,2013,114818,Diesel,Manual,50429
+Hyundai,Grand i10 Nios,2018,75951,Petrol,Manual,354972
+Kia,Seltos,2015,68776,Petrol,Manual,325049
+Honda,Amaze,2010,177685,Diesel,Automatic,67329
+Skoda,Slavia,2015,110543,Diesel,Manual,188192
+Skoda,Slavia,2012,106589,CNG,Automatic,67033
+Kia,Seltos,2011,103302,Diesel,Manual,63843
+Tata,Altroz,2016,108656,CNG,Automatic,232303
+Mahindra,Bolero,2021,59220,CNG,Automatic,651301
+Skoda,Kushaq,2009,147687,Electric,Automatic,56190
+MG,Astor,2022,12474,Electric,Automatic,1460500
+Tata,Punch,2011,179494,Diesel,Automatic,58091
+MG,Hector,2011,172696,Petrol,Automatic,66513
+Audi,A4,2017,95708,CNG,Automatic,1659663
+Volkswagen,Taigun,2018,66395,Electric,Automatic,790802
+MG,Astor,2015,73599,Electric,Manual,307808
+Mahindra,XUV700,2013,119119,CNG,Automatic,63506
+Hyundai,Creta,2013,184561,CNG,Manual,50490
+Mahindra,XUV700,2009,130092,Petrol,Manual,52580
+Honda,City,2013,109566,Electric,Automatic,58859
+Tata,Punch,2010,161055,Diesel,Automatic,54002
+Volkswagen,Taigun,2019,66207,CNG,Automatic,1015397
+Honda,WR-V,2014,96078,Petrol,Automatic,93261
+MG,Hector,2017,106077,CNG,Automatic,590616
+Maruti Suzuki,Swift,2021,20201,Diesel,Manual,614695
+Honda,Jazz,2020,70723,Electric,Automatic,552196
+Mercedes-Benz,C-Class,2021,62018,Diesel,Manual,3570475
+Hyundai,Creta,2020,41798,Petrol,Manual,924163
+Kia,Seltos,2015,155281,Petrol,Manual,141007
+Maruti Suzuki,Ciaz,2011,203519,Electric,Manual,57562
+Mercedes-Benz,C-Class,2019,62822,Petrol,Manual,3071332
+Toyota,Urban Cruiser,2022,24122,CNG,Manual,867029
+Hyundai,Venue,2010,153715,CNG,Manual,59627
+Tata,Punch,2013,162860,Diesel,Manual,51756
+Tata,Tiago,2018,105631,Electric,Automatic,300252
+Honda,Jazz,2013,115593,Electric,Automatic,67108
+Mahindra,Bolero,2011,218868,Diesel,Manual,57450
+MG,Hector,2018,57719,Electric,Manual,1034865
+Honda,Amaze,2023,30951,Diesel,Automatic,912705
+Kia,Sonet,2019,75370,CNG,Manual,547578
+Tata,Tiago,2009,119368,CNG,Automatic,67616
+Hyundai,Grand i10 Nios,2009,170599,Petrol,Manual,58993
+Tata,Harrier,2010,181359,Diesel,Manual,52142
+Tata,Nexon,2018,53579,CNG,Manual,572647
+Maruti Suzuki,Baleno,2015,135617,Petrol,Manual,105428
+Kia,Seltos,2021,5665,Electric,Automatic,1314932
+BMW,3 Series,2012,103698,Petrol,Manual,51689
+Toyota,Innova Crysta,2009,172746,Petrol,Manual,53394
+Tata,Altroz,2020,41059,Diesel,Manual,610049
+Hyundai,Grand i10 Nios,2022,20350,Petrol,Manual,677324
+Mahindra,Scorpio-N,2021,31722,Electric,Manual,1463491
+Skoda,Slavia,2019,93383,Petrol,Manual,822106
+Kia,Carens,2013,206973,Petrol,Manual,52937
+Hyundai,Creta,2010,241361,CNG,Automatic,52560
+Tata,Harrier,2013,191017,Petrol,Automatic,61884
+MG,Astor,2020,42463,Electric,Manual,1040088
+Mercedes-Benz,C-Class,2011,111319,CNG,Manual,67997
+Mahindra,XUV700,2019,65604,Diesel,Manual,1348170
+Volkswagen,Taigun,2020,30869,Diesel,Manual,1147280
+Kia,Seltos,2016,89411,Diesel,Automatic,347112
+Mahindra,Thar,2011,233040,Electric,Manual,65909
+MG,Astor,2013,132245,Diesel,Manual,60241
+Hyundai,Venue,2017,93743,Electric,Automatic,418443
+BMW,3 Series,2020,44529,CNG,Manual,3502977
+Hyundai,Verna,2021,54639,Diesel,Automatic,858684
+Mercedes-Benz,C-Class,2022,23203,Diesel,Automatic,3820707
+Volkswagen,Polo,2010,200928,Petrol,Manual,53372
+Hyundai,Verna,2010,183521,Petrol,Manual,66894
+Tata,Altroz,2019,37801,CNG,Manual,425352
+Volkswagen,Vento,2019,97292,Diesel,Automatic,656645
+Kia,Carens,2019,79556,Petrol,Automatic,775267
+Toyota,Urban Cruiser,2017,49590,Electric,Manual,472020
+Honda,Jazz,2010,173618,CNG,Manual,57262
+BMW,3 Series,2009,206834,Petrol,Automatic,52348
+Hyundai,Verna,2012,115551,Diesel,Manual,61884
+MG,Astor,2011,209171,Electric,Manual,58868
+Skoda,Octavia,2016,57071,Electric,Manual,801637
+Mahindra,XUV700,2017,132194,Diesel,Manual,699258
+Hyundai,Creta,2017,108409,Diesel,Manual,471783
+Kia,Carens,2017,94215,CNG,Automatic,517223
+Maruti Suzuki,Ciaz,2014,138075,Electric,Manual,50471
+Kia,Seltos,2018,80268,Petrol,Automatic,665500
+Toyota,Glanza,2011,154232,CNG,Automatic,60599
+Tata,Tiago,2014,165400,CNG,Automatic,59387
+Volkswagen,Vento,2011,221614,CNG,Manual,67192
+Tata,Punch,2015,114449,CNG,Manual,121676
+Kia,Seltos,2012,121901,Electric,Manual,64786
+Mahindra,Thar,2019,44323,Diesel,Automatic,914166
+Honda,Jazz,2022,28425,Diesel,Manual,688085
+Tata,Altroz,2017,54316,Diesel,Manual,344058
+Kia,Seltos,2016,121680,CNG,Manual,330677
+Volkswagen,Taigun,2020,45028,Petrol,Manual,1119002
+Honda,WR-V,2013,130692,Petrol,Manual,54695
+Mahindra,Bolero,2012,116216,CNG,Automatic,58679
+Skoda,Kushaq,2018,48508,Petrol,Automatic,771317
+Maruti Suzuki,Alto,2010,249217,Diesel,Automatic,51876
+Kia,Sonet,2021,49363,CNG,Automatic,947809
+Volkswagen,Taigun,2013,112556,Petrol,Automatic,68096
+Maruti Suzuki,Ertiga,2019,82183,Diesel,Automatic,538888
+Audi,A4,2013,127618,Electric,Manual,60694
+Audi,A4,2018,103066,Petrol,Manual,2060754
+Hyundai,Verna,2014,148386,CNG,Automatic,59352
+BMW,3 Series,2018,117030,CNG,Automatic,2148385
+Honda,City,2020,62884,Electric,Automatic,955275
+Audi,A4,2020,60273,CNG,Manual,3093952
+Mahindra,XUV700,2015,117849,Petrol,Automatic,358741
+Mahindra,Scorpio-N,2009,200303,Electric,Automatic,53271
+Maruti Suzuki,Dzire,2009,243947,Diesel,Manual,62245
+MG,Astor,2021,49378,CNG,Manual,1276159
+BMW,3 Series,2010,142975,CNG,Manual,54789
+Mahindra,Bolero,2021,35118,Diesel,Automatic,751652
+Honda,WR-V,2017,130115,CNG,Manual,351919
+Honda,Jazz,2009,121012,Electric,Manual,57616
+Toyota,Urban Cruiser,2016,151409,Petrol,Manual,194197
+Mahindra,Scorpio-N,2018,81136,Petrol,Automatic,945659
+MG,Astor,2015,69052,Electric,Manual,272309
+Volkswagen,Polo,2014,153329,Petrol,Manual,50158
+Mahindra,Bolero,2012,159380,CNG,Manual,67102
+Volkswagen,Vento,2010,228032,CNG,Manual,58849
+BMW,3 Series,2017,97901,Electric,Automatic,1813126
+Skoda,Slavia,2017,52832,Electric,Automatic,596126
+Hyundai,Creta,2019,90218,Diesel,Manual,827422
+MG,Hector,2019,58926,Petrol,Automatic,1132458
+Tata,Nexon,2011,225006,Diesel,Manual,61474
+Tata,Punch,2016,83814,Diesel,Manual,196106
+Volkswagen,Taigun,2022,25904,Diesel,Automatic,1425637
+Toyota,Urban Cruiser,2019,76623,Petrol,Automatic,655207
+Mahindra,Bolero,2016,108833,Petrol,Automatic,229130
+Mercedes-Benz,C-Class,2009,150242,Electric,Manual,60114
+MG,Hector,2019,79156,Petrol,Manual,912926
+Kia,Carens,2022,20542,CNG,Manual,1069928
+Toyota,Glanza,2009,221123,Diesel,Automatic,56594
+Hyundai,Santro,2018,60528,Diesel,Automatic,305475
+Mahindra,XUV700,2009,247088,CNG,Automatic,58840
+Mercedes-Benz,C-Class,2011,115615,Diesel,Automatic,61588
+MG,Astor,2009,264674,Electric,Manual,53252
+Hyundai,Grand i10 Nios,2014,143466,CNG,Manual,68568
+Hyundai,i20,2022,41225,CNG,Manual,854213
+Toyota,Glanza,2012,119887,CNG,Automatic,58802
+MG,Hector,2009,250027,Petrol,Automatic,52535
+Maruti Suzuki,Ertiga,2009,218018,Petrol,Manual,53560
+Mahindra,XUV700,2013,155374,Petrol,Automatic,60469
+Volkswagen,Taigun,2015,54677,Electric,Manual,387415
+Honda,City,2015,94434,CNG,Manual,247310
+Maruti Suzuki,Swift,2016,77744,Electric,Manual,199067
+Maruti Suzuki,Swift,2015,130304,Electric,Automatic,92638
+Mahindra,XUV700,2017,74816,Electric,Manual,985290
+MG,Astor,2017,125581,Diesel,Automatic,421304
+Mahindra,XUV700,2009,252293,Electric,Manual,50218
+Tata,Tiago,2015,84186,Electric,Manual,126332
+Mahindra,Scorpio-N,2018,89264,Diesel,Automatic,871406
+MG,Astor,2011,206898,CNG,Automatic,61110
+MG,Hector,2018,97539,Electric,Automatic,726206
+Maruti Suzuki,Alto,2022,41908,Diesel,Manual,353627
+Honda,Amaze,2016,102119,Electric,Automatic,189195
+Skoda,Slavia,2012,121681,Petrol,Manual,50305
+Hyundai,Santro,2010,226589,Diesel,Manual,54855
+Hyundai,Santro,2015,151335,Petrol,Manual,57165
+Mahindra,XUV700,2013,153056,Petrol,Manual,63210
+Volkswagen,Vento,2022,17596,Petrol,Manual,939848
+Honda,City,2021,62554,CNG,Manual,1160505
+Hyundai,Verna,2021,61851,CNG,Automatic,820947
+Honda,Amaze,2017,65595,Petrol,Automatic,344284
+Toyota,Innova Crysta,2022,26282,Petrol,Manual,1970422
+Toyota,Innova Crysta,2017,109875,Diesel,Manual,823062
+Hyundai,i20,2011,100752,CNG,Automatic,52501
+Toyota,Innova Crysta,2009,240656,Diesel,Automatic,67340
+Hyundai,Santro,2014,103701,Electric,Automatic,58179
+Tata,Harrier,2013,101130,Electric,Manual,58600
+Volkswagen,Taigun,2017,77913,CNG,Automatic,662064
+Honda,City,2015,148786,CNG,Automatic,141966
+Audi,A4,2017,59167,CNG,Automatic,1872484
+Hyundai,Venue,2016,113884,Diesel,Automatic,242655
+Maruti Suzuki,Alto,2010,136071,CNG,Manual,51511
+Volkswagen,Taigun,2020,56878,Electric,Manual,1131041
+MG,Astor,2014,87372,Electric,Manual,169362
+Hyundai,Santro,2013,123464,Diesel,Automatic,65401
+Mahindra,XUV700,2009,196476,CNG,Automatic,65997
+Maruti Suzuki,Ertiga,2014,79464,Petrol,Manual,97974
+Hyundai,Grand i10 Nios,2021,25883,Diesel,Automatic,664086
+Toyota,Urban Cruiser,2011,212608,Diesel,Automatic,55927
+Kia,Seltos,2015,114130,Diesel,Automatic,231805
+Mahindra,Bolero,2009,169453,CNG,Manual,54764
+Hyundai,Verna,2013,108564,CNG,Manual,56758
+Mahindra,Bolero,2013,148582,Electric,Manual,60146
+MG,Astor,2017,63742,Diesel,Manual,576197
+BMW,3 Series,2015,144790,Electric,Manual,470313
+Mahindra,Scorpio-N,2020,60882,CNG,Manual,1411049
+Honda,Jazz,2016,88506,CNG,Manual,239186
+Volkswagen,Vento,2022,0,Petrol,Manual,1163473
+Tata,Altroz,2014,188362,CNG,Automatic,51371
+Mahindra,XUV700,2014,170309,Petrol,Automatic,67373
+Tata,Safari,2015,143995,Petrol,Automatic,332149
+BMW,3 Series,2011,120886,Electric,Automatic,66798
+Kia,Carens,2019,57908,Petrol,Manual,760106
+Volkswagen,Vento,2016,94125,Petrol,Manual,306534
+Honda,WR-V,2010,241557,Petrol,Automatic,68382
+Toyota,Glanza,2017,74779,Diesel,Manual,321452
+Mahindra,Thar,2011,204445,CNG,Manual,69763
+Mercedes-Benz,C-Class,2014,143690,Electric,Manual,156534
+Volkswagen,Taigun,2021,17145,Petrol,Manual,1142608
+Maruti Suzuki,Swift,2017,97453,CNG,Automatic,281223
+Mahindra,Thar,2014,124792,CNG,Manual,100309
+Honda,City,2014,165290,Petrol,Manual,57235
+Kia,Sonet,2020,68508,Electric,Manual,772159
+Hyundai,Creta,2011,150089,CNG,Automatic,60126
+Toyota,Urban Cruiser,2022,21566,Petrol,Manual,1085962
+Maruti Suzuki,Baleno,2018,92352,Petrol,Manual,366440
+Volkswagen,Polo,2015,87620,Electric,Manual,145835
+Skoda,Octavia,2021,23187,Petrol,Automatic,2225771
+Tata,Punch,2009,176240,CNG,Manual,65272
+Toyota,Urban Cruiser,2018,93367,Electric,Automatic,431800
+Audi,A4,2021,20718,CNG,Automatic,3291354
+Toyota,Glanza,2021,38426,Petrol,Automatic,733685
+Toyota,Fortuner,2013,168930,CNG,Manual,64501
+Honda,Jazz,2010,184913,Diesel,Manual,61255
+Tata,Altroz,2021,59598,Diesel,Manual,549508
+Volkswagen,Polo,2014,188074,Electric,Automatic,60439
+Kia,Sonet,2011,233148,Diesel,Automatic,63989
+MG,Astor,2013,155252,Diesel,Manual,51848
+Tata,Nexon,2018,89260,Electric,Automatic,496448
+Mercedes-Benz,C-Class,2014,167324,CNG,Automatic,65401
+Kia,Seltos,2010,167580,Diesel,Automatic,60999
+Mahindra,Bolero,2010,246566,CNG,Automatic,61912
+Honda,City,2012,205844,Diesel,Manual,56280
+Volkswagen,Vento,2021,25863,Electric,Automatic,875786
+Tata,Safari,2010,236752,Electric,Automatic,62255
+Volkswagen,Vento,2022,20008,Petrol,Manual,1179673
+Kia,Seltos,2009,135502,Diesel,Manual,57327
+Tata,Altroz,2015,94639,CNG,Manual,170139
+Volkswagen,Polo,2011,172737,Petrol,Automatic,55301
+Maruti Suzuki,Dzire,2020,58500,Petrol,Manual,546415
+MG,Astor,2018,65261,Petrol,Automatic,806322
+Honda,City,2009,196092,Electric,Automatic,51003
+Mercedes-Benz,C-Class,2015,115831,Electric,Automatic,663782
+Skoda,Octavia,2021,52365,Electric,Automatic,2315415
+Skoda,Octavia,2015,107423,Electric,Manual,445384
+Audi,A4,2012,180073,Petrol,Manual,64356
+Mahindra,Scorpio-N,2022,21640,CNG,Automatic,1957890
+Volkswagen,Vento,2011,120197,Diesel,Automatic,58145
+Volkswagen,Vento,2012,128454,CNG,Manual,66804
+MG,Hector,2014,102147,Petrol,Manual,175606
+Kia,Carens,2022,38555,Petrol,Manual,1298546
+Toyota,Innova Crysta,2018,69057,Petrol,Automatic,1201869
+Kia,Seltos,2014,81608,Diesel,Automatic,158705
+BMW,3 Series,2020,47919,Petrol,Manual,2924366
+Tata,Safari,2011,193004,Diesel,Automatic,64592
+Tata,Punch,2020,70412,Electric,Manual,519003
+MG,Hector,2013,185742,CNG,Manual,57821
+Skoda,Kushaq,2021,49812,Petrol,Automatic,1419157
+Toyota,Fortuner,2017,77094,Electric,Automatic,1453490
+Mercedes-Benz,C-Class,2022,12011,CNG,Automatic,4641355
+Kia,Seltos,2020,46442,Electric,Automatic,916644
+Tata,Punch,2019,50659,Petrol,Automatic,416789
+Honda,City,2012,170838,Electric,Manual,64326
+Honda,Jazz,2017,117574,CNG,Automatic,260408
+Maruti Suzuki,Ciaz,2009,281269,Petrol,Manual,66614
+Kia,Seltos,2018,62975,Diesel,Manual,612646
+Maruti Suzuki,Ciaz,2013,91012,Diesel,Automatic,58344
+Maruti Suzuki,Ciaz,2011,189375,CNG,Automatic,69901
+Toyota,Innova Crysta,2016,127049,Diesel,Manual,501842
+Skoda,Kushaq,2017,60567,Petrol,Manual,617795
+Audi,A4,2010,178426,Diesel,Manual,68889
+Honda,City,2021,45305,Electric,Manual,948170
+Mahindra,XUV700,2023,23489,CNG,Manual,2265944
+Toyota,Innova Crysta,2017,113208,Diesel,Automatic,962291
+Honda,Amaze,2011,159913,CNG,Automatic,53211
+Volkswagen,Polo,2009,152532,Petrol,Manual,62216
+Kia,Seltos,2018,89116,Petrol,Manual,611953
+MG,Astor,2022,32327,Diesel,Automatic,1441162
+Honda,Jazz,2009,209541,CNG,Manual,69201
+Volkswagen,Polo,2018,105878,Electric,Manual,371937
+MG,Astor,2012,173954,CNG,Manual,61683
+Mahindra,Thar,2020,50322,Petrol,Automatic,1174363
+Skoda,Kushaq,2019,73970,Electric,Automatic,901105
+Volkswagen,Taigun,2022,31192,CNG,Manual,1496139
+Skoda,Slavia,2012,172793,Petrol,Automatic,58982
+Volkswagen,Polo,2011,91864,Petrol,Manual,62905
+Maruti Suzuki,Wagon R,2016,107172,Petrol,Automatic,177463
+MG,Astor,2012,127852,Petrol,Automatic,65975
+Skoda,Slavia,2015,89070,Petrol,Manual,261127
+Honda,Amaze,2015,80870,CNG,Automatic,183024
+Skoda,Kushaq,2019,67168,Petrol,Manual,800234
+Toyota,Glanza,2016,108492,Petrol,Manual,227166
+Honda,Jazz,2011,139931,CNG,Manual,51098
+Audi,A4,2012,82548,Diesel,Manual,61752
+Maruti Suzuki,Alto,2023,33599,Petrol,Automatic,431767
+Kia,Seltos,2009,183305,CNG,Automatic,56165
+Hyundai,Venue,2013,193831,Diesel,Automatic,68009
+Skoda,Slavia,2023,23945,Electric,Manual,1342330
+Volkswagen,Vento,2020,62142,Diesel,Manual,893317
+Tata,Punch,2014,139283,Diesel,Manual,55667
+Tata,Safari,2015,110693,Electric,Automatic,469665
+Skoda,Slavia,2021,49457,CNG,Manual,933725
+Toyota,Urban Cruiser,2020,76174,Diesel,Manual,739618
+Hyundai,Santro,2017,101913,Diesel,Automatic,171508
+Tata,Tiago,2020,68417,Diesel,Automatic,406243
+Skoda,Octavia,2009,224371,Petrol,Manual,60874
+Tata,Nexon,2012,179247,Electric,Manual,60433
+Kia,Sonet,2009,230661,Diesel,Manual,58648
+Tata,Tiago,2016,71533,Electric,Automatic,191518
+MG,Astor,2014,106196,Diesel,Automatic,99533
+Tata,Harrier,2016,139680,Petrol,Manual,516749
+Toyota,Innova Crysta,2019,56316,CNG,Manual,1655310
+MG,Hector,2023,9322,Petrol,Automatic,2061711
+Volkswagen,Polo,2019,67488,CNG,Manual,464848
+Maruti Suzuki,Ciaz,2022,7520,Petrol,Manual,953253
+Volkswagen,Polo,2009,165240,Petrol,Manual,55886
+MG,Astor,2020,27892,CNG,Manual,1179690
+Toyota,Innova Crysta,2016,98334,CNG,Automatic,599693
+Kia,Carens,2010,226705,Electric,Automatic,55700
+Tata,Nexon,2020,56131,CNG,Automatic,706830
+Volkswagen,Vento,2021,28068,Diesel,Manual,971160
+Maruti Suzuki,Alto,2022,13334,CNG,Manual,404681
+Volkswagen,Polo,2022,28039,Electric,Automatic,765990
+Hyundai,Venue,2012,204278,Diesel,Manual,57850
+Tata,Safari,2018,40861,Diesel,Manual,1455159
+Skoda,Octavia,2016,104739,Electric,Manual,760613
+Toyota,Urban Cruiser,2018,97989,Petrol,Automatic,538353
+Volkswagen,Polo,2016,109110,Diesel,Manual,205359
+MG,Astor,2013,196242,Diesel,Manual,62360
+Maruti Suzuki,Dzire,2016,132187,Diesel,Manual,148760
+Toyota,Urban Cruiser,2020,38428,CNG,Automatic,749250
+Volkswagen,Taigun,2022,4394,Electric,Manual,1355965
+Honda,WR-V,2019,77102,CNG,Automatic,551800
+Skoda,Slavia,2015,127759,Electric,Automatic,217637
+Honda,Amaze,2017,95786,CNG,Automatic,277214
+Toyota,Innova Crysta,2010,192968,Petrol,Automatic,53304
+Volkswagen,Vento,2022,36162,Diesel,Automatic,1025697
+Honda,Amaze,2023,19441,Electric,Manual,775615
+Volkswagen,Taigun,2014,153912,Electric,Automatic,61325
+Skoda,Slavia,2009,185389,Diesel,Manual,62961
+Mahindra,Thar,2015,108045,Diesel,Automatic,243622
+Mahindra,Thar,2023,15426,CNG,Automatic,1597675
+Mahindra,XUV700,2014,86822,Electric,Automatic,243455
+Toyota,Glanza,2011,147945,Diesel,Manual,69386
+Tata,Altroz,2021,35313,CNG,Automatic,664240
+Honda,WR-V,2015,160338,CNG,Automatic,106034
+Hyundai,Venue,2010,206103,Electric,Automatic,59133
+Honda,Amaze,2012,155865,Diesel,Automatic,55267
+Skoda,Octavia,2012,111988,Diesel,Manual,53586
+BMW,3 Series,2018,110795,Diesel,Manual,1778326
+Tata,Altroz,2014,95803,CNG,Automatic,74086
+Tata,Punch,2010,158513,Petrol,Automatic,56305
+MG,Hector,2020,55865,Diesel,Manual,1057445
+Skoda,Kushaq,2012,137725,Electric,Manual,58226
+Tata,Punch,2012,162125,Petrol,Automatic,55483
+Honda,Amaze,2019,66034,Petrol,Automatic,401424
+Hyundai,Venue,2013,88530,Diesel,Manual,62258
+Tata,Safari,2016,58251,Electric,Manual,788755
+BMW,3 Series,2023,12615,Petrol,Automatic,5021737
+Volkswagen,Vento,2015,63416,Petrol,Manual,271709
+Maruti Suzuki,Ciaz,2021,32758,Electric,Automatic,835377
+Tata,Nexon,2009,145124,Petrol,Automatic,66721
+Hyundai,Grand i10 Nios,2016,120688,CNG,Manual,149524
+Kia,Sonet,2013,89329,Petrol,Automatic,66860
+Toyota,Fortuner,2017,78218,Diesel,Manual,1575741
+Mahindra,Thar,2020,56926,Electric,Manual,1014570
+Mercedes-Benz,C-Class,2023,0,Petrol,Automatic,5445492
+MG,Hector,2013,127123,CNG,Manual,64597
+Volkswagen,Taigun,2016,109215,Electric,Manual,452084
+MG,Astor,2009,265014,Electric,Manual,57763
+Maruti Suzuki,Wagon R,2023,19613,Electric,Manual,644970
+BMW,3 Series,2015,91974,Electric,Automatic,869716
+Maruti Suzuki,Baleno,2012,121459,Diesel,Automatic,51832
+Tata,Tiago,2015,98529,Electric,Manual,105289
+Kia,Seltos,2013,196823,CNG,Automatic,53975
+Hyundai,i20,2015,80168,Electric,Automatic,165331
+Maruti Suzuki,Swift,2022,49458,Diesel,Automatic,553987
+Tata,Nexon,2016,84752,Diesel,Automatic,371650
+MG,Astor,2014,184727,CNG,Manual,60877
+Mercedes-Benz,C-Class,2022,27417,Petrol,Automatic,5017652
+Skoda,Octavia,2017,75429,Petrol,Manual,1043599
+Hyundai,Venue,2022,30532,Petrol,Manual,899522
+Toyota,Glanza,2010,182531,Electric,Manual,58074
+Honda,City,2012,232582,Petrol,Manual,62634
+Skoda,Kushaq,2017,84061,Electric,Manual,698050
+Skoda,Octavia,2020,41337,Electric,Manual,1959367
+Audi,A4,2010,110032,Electric,Automatic,69851
+Mahindra,Bolero,2018,83383,Diesel,Manual,469057
+Mercedes-Benz,C-Class,2010,147590,Petrol,Manual,67157
+Tata,Safari,2014,97951,Petrol,Automatic,249014
+Volkswagen,Taigun,2022,21740,Diesel,Automatic,1418058
+Volkswagen,Taigun,2014,151879,Diesel,Manual,64727
+MG,Astor,2020,64032,Petrol,Manual,962307
+Mahindra,Scorpio-N,2022,15009,Petrol,Manual,1696687
+Maruti Suzuki,Dzire,2010,127492,Petrol,Manual,58030
+Maruti Suzuki,Swift,2016,65045,CNG,Manual,257532
+Mahindra,Bolero,2016,87498,CNG,Automatic,281081
+MG,Hector,2014,80741,Petrol,Automatic,231036
+Maruti Suzuki,Ertiga,2017,74741,CNG,Manual,340702
+Toyota,Glanza,2023,0,Petrol,Manual,838220
+Audi,A4,2013,88647,CNG,Automatic,71215
+Maruti Suzuki,Ertiga,2017,73197,Electric,Manual,429697
+Volkswagen,Polo,2016,134319,Electric,Manual,184275
+Volkswagen,Vento,2018,48486,Electric,Automatic,558134
+Volkswagen,Polo,2016,102777,CNG,Automatic,209931
+MG,Astor,2012,134153,Petrol,Manual,56941
+Honda,City,2012,137483,Diesel,Manual,59117
+Kia,Seltos,2015,132051,Petrol,Automatic,202181
+Mercedes-Benz,C-Class,2013,186656,CNG,Automatic,65369
+Honda,City,2017,116715,Diesel,Automatic,443688
+Skoda,Slavia,2020,48671,Petrol,Automatic,914803
+Maruti Suzuki,Ertiga,2023,31021,Petrol,Manual,1094268
+Skoda,Octavia,2011,192248,CNG,Automatic,68180
+Honda,WR-V,2010,170965,Electric,Automatic,51822
+Kia,Carens,2015,113720,Diesel,Manual,214322
+Maruti Suzuki,Ertiga,2013,102321,Diesel,Manual,58997
+Tata,Safari,2015,112973,Diesel,Automatic,398980
+Mahindra,Scorpio-N,2015,90953,Petrol,Manual,328130
+Audi,A4,2015,105318,Diesel,Automatic,699224
+Audi,A4,2010,192011,Electric,Manual,50802
+Toyota,Glanza,2011,201142,CNG,Manual,53672
+Volkswagen,Taigun,2016,125301,Petrol,Manual,345683
+Skoda,Octavia,2019,60046,CNG,Manual,1423697
+Volkswagen,Polo,2015,93313,Electric,Automatic,143016
+Maruti Suzuki,Baleno,2013,112255,Petrol,Automatic,63195
+Tata,Nexon,2018,53281,Electric,Automatic,571806
+Mahindra,Thar,2015,151253,Electric,Automatic,184631
+MG,Hector,2013,148322,Electric,Manual,52863
+Hyundai,Venue,2015,160684,Petrol,Automatic,98484
+Toyota,Fortuner,2010,131323,Petrol,Manual,54029
+Mercedes-Benz,C-Class,2022,17322,Petrol,Manual,4625934
+Maruti Suzuki,Baleno,2021,31747,Electric,Automatic,609187
+Toyota,Innova Crysta,2016,100811,CNG,Manual,670348
+Kia,Carens,2020,63137,Electric,Automatic,820774
+Toyota,Fortuner,2019,31182,Diesel,Automatic,2753188
+Kia,Sonet,2015,155471,Diesel,Automatic,117243
+Audi,A4,2014,166686,Electric,Automatic,62153
+Hyundai,i20,2020,29231,Petrol,Manual,561421
+Hyundai,i20,2017,56881,Petrol,Manual,369637
+Mahindra,Thar,2014,179013,Petrol,Manual,58713
+Tata,Harrier,2021,55756,CNG,Automatic,1509432
+Skoda,Slavia,2014,118775,Petrol,Manual,98424
+Hyundai,Venue,2020,61363,Diesel,Automatic,685340
+Hyundai,Santro,2009,184896,CNG,Manual,69382
+MG,Astor,2017,90415,Electric,Automatic,576837
+BMW,3 Series,2010,252405,Petrol,Manual,69238
